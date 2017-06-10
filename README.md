@@ -1,6 +1,13 @@
-## AI Deadlines
+# Sys Deadlines
 
-Countdown timers to keep track of a bunch of CV/NLP/ML/AI conference deadlines.
+Countdown timers to keep track of a bunch of system conference deadlines. Inspired by [ai-deadlines](https://github.com/abhshkdz/ai-deadlines).
+
+## Roadmap
+
+1. setting up domain name
+2. move data in local storage
+3. add basic editting
+4. perhaps UI redesign
 
 ## Adding/updating a conference
 
@@ -14,4 +21,3 @@ Countdown timers to keep track of a bunch of CV/NLP/ML/AI conference deadlines.
 [MIT][1]
 
 [1]: https://abhshkdz.mit-license.org/
-[2]: http://aideadlin.es/
