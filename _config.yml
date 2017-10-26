@@ -1,10 +1,8 @@
-title: AI Conference Deadlines # (Maintained by @abhshkdz)
-# email: abhshkdz@vt.edu
-description: Countdowns to top CV/NLP/ML/Robotics/AI conference deadlines.
+title: System Conference Deadlines
+description: Countdowns to system conference deadlines.
 
 baseurl: "/sys-deadlines"
-twitter_username: abhshkdz
-github_username: abhshkdz
+github_username: All-less
 
 markdown: kramdown
-ga_id: UA-36274081-2
+ga_id: UA-108700898-1
