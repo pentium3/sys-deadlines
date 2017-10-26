@@ -9,3 +9,23 @@
   date: July 2–6, 2018
   place: Vienna, Austria
   sub: DS
+
+- name: ATC
+  year: 2018
+  id: atc2018
+  link: https://www.usenix.org/conference/atc18
+  deadline: "2018-02-06 00:00:00"
+  timezone: GMT
+  date: July 11–13, 2018
+  place: Boston, MA, USA
+  sub: DS
+
+- name: OSDI
+  year: 2018
+  id: osdi2018
+  link: https://www.usenix.org/conference/osdi18
+  deadline: "2018-04-26 15:00:00"
+  timezone: PDT
+  date: October 8-10, 2018
+  place: Carlsbad, CA, USA
+  sub: DS
