@@ -29,3 +29,83 @@
   date: October 8-10, 2018
   place: Carlsbad, CA, USA
   sub: DS
+
+- name: SOSP
+  year: 2017
+  id: sosp2017
+  link: https://www.sigops.org/sosp/sosp17/index.html
+  deadline: "2017-04-14 23:59:00"
+  timezone: UTC
+  date: October 28-31, 2017
+  place: Shanghai, China
+  sub: DS
+
+- name: NSDI
+  year: 2018
+  id: nsdi2018
+  link: https://www.usenix.org/conference/nsdi18
+  deadline: "2017-09-18 18:00:00"
+  timezone: PDT
+  date: April 9–11, 2018
+  place: Renton, WA, USA
+  sub: DS
+
+- name: INFOCOM
+  year: 2018
+  id: infocom2018
+  link: http://infocom2018.ieee-infocom.org/
+  deadline: "2017-07-24 23:59:00"
+  timezone: EDT
+  date: April 15-19, 2018
+  place: Honolulu, HI, USA
+  sub: DS
+
+- name: SoCC
+  year: 2017
+  id: socc2017
+  link: https://acmsocc.github.io/2017/
+  deadline: "2017-07-13 17:00:00"
+  timezone: PST
+  date: September 25-27, 2017
+  place: Santa Clara, CA, USA
+  sub: DS
+
+- name: EuroSys
+  year: 2018
+  id: eurosys2018
+  link: http://eurosys2018.org/
+  deadline: "2017-10-20 00:00:00"
+  timezone: GMT
+  date: April 23-26, 2018
+  place: Porto, Portugal
+  sub: DS
+
+- name: HotCloud
+  year: 2018
+  id: hotcloud2018
+  link: https://www.usenix.org/conference/hotcloud18
+  deadline: TBA
+  timezone: GMT
+  date: July 9, 2018
+  place: Boston, MA, USA
+  sub: DS
+
+- name: HotNets
+  year: 2017
+  id: hotnets2017
+  link: http://conferences.sigcomm.org/hotnets/2017/
+  deadline: "2017-08-04 19:59:00"
+  timezone: EDT
+  date: November 30-December 1, 2017
+  place: Palo Alto, CA, USA
+  sub: DS
+
+- name: HotOS
+  year: 2017
+  id: hotos2017
+  link: https://www.sigops.org/hotos/hotos17/
+  deadline: "2017-01-25 23:59:00"
+  timezone: GMT
+  date: May 7-10, 2017
+  place: British Columbia, Canada
+  sub: DS
