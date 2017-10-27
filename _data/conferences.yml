@@ -1,5 +1,8 @@
 ---
 
+# Conferences active for submission are sorted
+# in ascending order of submission deadlines.
+ 
 - name: ICDCS
   year: 2018
   id: icdcs2018
@@ -40,6 +43,9 @@
   place: Boston, MA, USA
   sub: DS
 
+# Conferences closed for submission are sorted
+# in descending order of conference date. 
+
 - name: EuroSys
   year: 2018
   id: eurosys2018
@@ -48,6 +54,16 @@
   timezone: GMT
   date: April 23-26, 2018
   place: Porto, Portugal
+  sub: DS
+
+- name: INFOCOM
+  year: 2018
+  id: infocom2018
+  link: http://infocom2018.ieee-infocom.org/
+  deadline: "2017-07-24 23:59:00"
+  timezone: EDT
+  date: April 15-19, 2018
+  place: Honolulu, HI, USA
   sub: DS
 
 - name: NSDI
@@ -70,14 +86,14 @@
   place: Palo Alto, CA, USA
   sub: DS
 
-- name: INFOCOM
-  year: 2018
-  id: infocom2018
-  link: http://infocom2018.ieee-infocom.org/
-  deadline: "2017-07-24 23:59:00"
-  timezone: EDT
-  date: April 15-19, 2018
-  place: Honolulu, HI, USA
+- name: SOSP
+  year: 2017
+  id: sosp2017
+  link: https://www.sigops.org/sosp/sosp17/index.html
+  deadline: "2017-04-14 23:59:00"
+  timezone: UTC
+  date: October 28-31, 2017
+  place: Shanghai, China
   sub: DS
 
 - name: SoCC
@@ -88,16 +104,6 @@
   timezone: PST
   date: September 25-27, 2017
   place: Santa Clara, CA, USA
-  sub: DS
-
-- name: SOSP
-  year: 2017
-  id: sosp2017
-  link: https://www.sigops.org/sosp/sosp17/index.html
-  deadline: "2017-04-14 23:59:00"
-  timezone: UTC
-  date: October 28-31, 2017
-  place: Shanghai, China
   sub: DS
 
 - name: HotOS
