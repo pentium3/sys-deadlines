@@ -13,6 +13,16 @@
   place: Vienna, Austria
   sub: DS
 
+- name: SIGCOMM
+  year: 2018
+  id: sigcomm2018
+  link: http://conferences.sigcomm.org/sigcomm/2018/
+  deadline: "2018-01-24 00:00:00"
+  timezone: GMT
+  date: August 20-24, 2018
+  place: Budapest, Hungary
+  sub: DS
+  
 - name: ATC
   year: 2018
   id: atc2018
@@ -23,6 +33,16 @@
   place: Boston, MA, USA
   sub: DS
 
+- name: VLDB
+  year: 2018
+  id: vldb2018
+  link: http://vldb2018.lncc.br/
+  deadline: "2018-03-01 00:00:00"
+  timezone: PDT
+  date: August 27-31, 2018
+  place: Rio de Janeiro, Brazil
+  sub: DS
+  
 - name: OSDI
   year: 2018
   id: osdi2018
@@ -46,6 +66,16 @@
 # Conferences closed for submission are sorted
 # in descending order of conference date. 
 
+- name: SIGMOD
+  year: 2018
+  id: sigmod2018
+  link: http://sigmod2018.org/
+  deadline: "2017-10-26 17:00:00"
+  timezone: PDT
+  date: June 10-15, 2018
+  place: Houston, TX, USA
+  sub: DS
+  
 - name: EuroSys
   year: 2018
   id: eurosys2018
@@ -76,6 +106,16 @@
   place: Renton, WA, USA
   sub: DS
 
+- name: CoNEXT
+  year: 2017
+  id: conext2017
+  link: http://conferences2.sigcomm.org/co-next/2017/#!/home
+  deadline: "2017-06-19 23:59"
+  timezone: PDT
+  date: Dec 12-15, 2017
+  place: Seoul, South Korea
+  sub: DS
+  
 - name: HotNets
   year: 2017
   id: hotnets2017
