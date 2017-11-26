@@ -21,7 +21,7 @@
   timezone: GMT
   date: August 20-24, 2018
   place: Budapest, Hungary
-  sub: NT
+  sub: NS
   
 - name: ATC
   year: 2018
@@ -104,7 +104,7 @@
   timezone: PDT
   date: April 9–11, 2018
   place: Renton, WA, USA
-  sub: NT
+  sub: NS
 
 - name: CoNEXT
   year: 2017
@@ -124,7 +124,7 @@
   timezone: EDT
   date: November 30-December 1, 2017
   place: Palo Alto, CA, USA
-  sub: NT
+  sub: NS
 
 - name: SOSP
   year: 2017
