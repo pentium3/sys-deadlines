@@ -57,7 +57,8 @@
   year: 2018
   id: socc2018
   deadline: TBA
-  data: September 11-14, 2018
+  timezone: GMT
+  date: September 11-14, 2018
   place: TBA, USA
   sub: DS
 
