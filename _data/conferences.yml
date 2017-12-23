@@ -2,16 +2,6 @@
 
 # Conferences active for submission are sorted
 # in ascending order of submission deadlines.
- 
-- name: ICDCS
-  year: 2018
-  id: icdcs2018
-  link: http://icdcs2018.ocg.at/
-  deadline: "2017-12-05 00:00:00"
-  timezone: GMT
-  date: July 2–6, 2018
-  place: Vienna, Austria
-  sub: DS
 
 - name: SIGCOMM
   year: 2018
@@ -63,9 +53,27 @@
   place: Boston, MA, USA
   sub: DS
 
+- name: SoCC
+  year: 2018
+  id: socc2018
+  deadline: TBA
+  data: September 11-14, 2018
+  place: TBA, USA
+  sub: DS
+
 # Conferences closed for submission are sorted
 # in descending order of conference date. 
 
+- name: ICDCS
+  year: 2018
+  id: icdcs2018
+  link: http://icdcs2018.ocg.at/
+  deadline: "2017-12-05 00:00:00"
+  timezone: GMT
+  date: July 2–6, 2018
+  place: Vienna, Austria
+  sub: DS
+  
 - name: SIGMOD
   year: 2018
   id: sigmod2018
