@@ -2,16 +2,6 @@
 
 # Conferences active for submission are sorted
 # in ascending order of submission deadlines.
-
-- name: SIGCOMM
-  year: 2018
-  id: sigcomm2018
-  link: http://conferences.sigcomm.org/sigcomm/2018/
-  deadline: "2018-01-24 00:00:00"
-  timezone: GMT
-  date: August 20-24, 2018
-  place: Budapest, Hungary
-  sub: NS
   
 - name: ATC
   year: 2018
@@ -56,15 +46,26 @@
 - name: SoCC
   year: 2018
   id: socc2018
-  deadline: TBA
-  timezone: GMT
-  date: September 11-14, 2018
-  place: TBA, USA
+  deadline: "2018-05-08 20:00:00"
+  timezone: EDT
+  date: October 11-13, 2018
+  place: Carlsbad, CA, USA
   sub: DS
 
 # Conferences closed for submission are sorted
 # in descending order of conference date. 
 
+
+- name: SIGCOMM
+  year: 2018
+  id: sigcomm2018
+  link: http://conferences.sigcomm.org/sigcomm/2018/
+  deadline: "2018-01-24 00:00:00"
+  timezone: GMT
+  date: August 20-24, 2018
+  place: Budapest, Hungary
+  sub: NS
+  
 - name: ICDCS
   year: 2018
   id: icdcs2018
