@@ -2,16 +2,6 @@
 
 # Conferences active for submission are sorted
 # in ascending order of submission deadlines.
-  
-- name: ATC
-  year: 2018
-  id: atc2018
-  link: https://www.usenix.org/conference/atc18
-  deadline: "2018-02-06 00:00:00"
-  timezone: GMT
-  date: July 11–13, 2018
-  place: Boston, MA, USA
-  sub: DS
 
 - name: VLDB
   year: 2018
@@ -54,8 +44,7 @@
 
 # Conferences closed for submission are sorted
 # in descending order of conference date. 
-
-
+  
 - name: SIGCOMM
   year: 2018
   id: sigcomm2018
@@ -65,6 +54,16 @@
   date: August 20-24, 2018
   place: Budapest, Hungary
   sub: NS
+  
+- name: ATC
+  year: 2018
+  id: atc2018
+  link: https://www.usenix.org/conference/atc18
+  deadline: "2018-02-06 00:00:00"
+  timezone: GMT
+  date: July 11–13, 2018
+  place: Boston, MA, USA
+  sub: DS
   
 - name: ICDCS
   year: 2018
