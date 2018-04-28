@@ -3,36 +3,6 @@
 # Conferences active for submission are sorted
 # in ascending order of submission deadlines.
 
-- name: VLDB
-  year: 2018
-  id: vldb2018
-  link: http://vldb2018.lncc.br/
-  deadline: "2018-03-01 00:00:00"
-  timezone: PDT
-  date: August 27-31, 2018
-  place: Rio de Janeiro, Brazil
-  sub: DS
-  
-- name: OSDI
-  year: 2018
-  id: osdi2018
-  link: https://www.usenix.org/conference/osdi18
-  deadline: "2018-04-26 15:00:00"
-  timezone: PDT
-  date: October 8-10, 2018
-  place: Carlsbad, CA, USA
-  sub: DS
-
-- name: HotCloud
-  year: 2018
-  id: hotcloud2018
-  link: https://www.usenix.org/conference/hotcloud18
-  deadline: TBA
-  timezone: GMT
-  date: July 9, 2018
-  place: Boston, MA, USA
-  sub: DS
-
 - name: SoCC
   year: 2018
   id: socc2018
@@ -44,6 +14,26 @@
 
 # Conferences closed for submission are sorted
 # in descending order of conference date. 
+
+- name: OSDI
+  year: 2018
+  id: osdi2018
+  link: https://www.usenix.org/conference/osdi18
+  deadline: "2018-04-26 15:00:00"
+  timezone: PDT
+  date: October 8-10, 2018
+  place: Carlsbad, CA, USA
+  sub: DS
+
+- name: VLDB
+  year: 2018
+  id: vldb2018
+  link: http://vldb2018.lncc.br/
+  deadline: "2018-03-01 00:00:00"
+  timezone: PDT
+  date: August 27-31, 2018
+  place: Rio de Janeiro, Brazil
+  sub: DS
   
 - name: SIGCOMM
   year: 2018
@@ -64,6 +54,16 @@
   date: July 11–13, 2018
   place: Boston, MA, USA
   sub: DS
+
+- name: HotCloud
+  year: 2018
+  id: hotcloud2018
+  link: https://www.usenix.org/conference/hotcloud18
+  deadline: "2018-03-16 11:59:00"
+  timezone: PDT
+  date: July 9, 2018
+  place: Boston, MA, USA
+  sub: NS
   
 - name: ICDCS
   year: 2018
