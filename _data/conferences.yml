@@ -12,6 +12,24 @@
   place: Carlsbad, CA, USA
   sub: DS
 
+- name: INFOCOM
+  year: 2019
+  id: infocom2019
+  deadline: "2018-07-24 23:59:00"
+  timezone: EDT
+  date: April 29-May 2, 2019
+  place: Paris, France
+  sub: NS
+  
+- name: EuroSys
+  year: 2019
+  id: eurosys2019
+  deadline: "2018-09-24 00:00:00"
+  timezone: GMT
+  date: Mar 25-28, 2019
+  place: Dresden, Germany
+  sub: DS
+
 # Conferences closed for submission are sorted
 # in descending order of conference date. 
 
