@@ -3,16 +3,6 @@
 # Conferences active for submission are sorted
 # in ascending order of submission deadlines.
 
-- name: NSDI
-  year: 2019
-  id: nsdi2019
-  link: https://www.usenix.org/conference/nsdi19
-  deadline: "2018-05-31 18:00:00"
-  timezone: PDT
-  date: Feburary 26–28, 2019
-  place: Boston, MA, USA
-  sub: NS
-
 - name: INFOCOM
   year: 2019
   id: infocom2019
@@ -34,6 +24,16 @@
 # Conferences closed for submission are sorted
 # in descending order of conference date. 
 
+- name: NSDI
+  year: 2019
+  id: nsdi2019
+  link: https://www.usenix.org/conference/nsdi19
+  deadline: "2018-05-31 18:00:00"
+  timezone: PDT
+  date: Feburary 26–28, 2019
+  place: Boston, MA, USA
+  sub: NS
+  
 - name: SoCC
   year: 2018
   id: socc2018
@@ -61,7 +61,7 @@
   timezone: PDT
   date: August 27-31, 2018
   place: Rio de Janeiro, Brazil
-  sub: DS
+  sub: DB
   
 - name: SIGCOMM
   year: 2018
@@ -111,7 +111,7 @@
   timezone: PDT
   date: June 10-15, 2018
   place: Houston, TX, USA
-  sub: DS
+  sub: DB
   
 - name: EuroSys
   year: 2018
@@ -151,7 +151,7 @@
   timezone: PDT
   date: Dec 12-15, 2017
   place: Seoul, South Korea
-  sub: DS
+  sub: NS
   
 - name: HotNets
   year: 2017
