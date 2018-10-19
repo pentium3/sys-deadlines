@@ -3,6 +3,28 @@
 # Conferences active for submission are sorted
 # in ascending order of submission deadlines.
 
+- name: ATC
+  year: 2019
+  id: atc2019
+  deadline: "2019-01-10 15:00:00"
+  timezone: PST
+  date: July 10–12, 2019
+  place: Renton, WA, USA
+  sub: DS
+  
+- name: SOSP
+  year: 2019
+  id: sosp2019
+  deadline: "2019-04-17 23:59:00"
+  timezone: UTC
+  date: TBA
+  place: Huntsville, Ontario, Canada
+  sub: DS
+
+
+# Conferences closed for submission are sorted
+# in descending order of conference date. 
+
 - name: INFOCOM
   year: 2019
   id: infocom2019
@@ -20,10 +42,7 @@
   date: Mar 25-28, 2019
   place: Dresden, Germany
   sub: DS
-
-# Conferences closed for submission are sorted
-# in descending order of conference date. 
-
+  
 - name: NSDI
   year: 2019
   id: nsdi2019
