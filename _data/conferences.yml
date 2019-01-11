@@ -3,15 +3,6 @@
 # Conferences active for submission are sorted
 # in ascending order of submission deadlines.
 
-- name: ATC
-  year: 2019
-  id: atc2019
-  deadline: "2019-01-10 15:00:00"
-  timezone: PST
-  date: July 10–12, 2019
-  place: Renton, WA, USA
-  sub: DS
-
 - name: HotOS
   year: 2019
   id: hotos2019
@@ -53,6 +44,15 @@
 # Conferences closed for submission are sorted
 # in descending order of conference date. 
 
+- name: ATC
+  year: 2019
+  id: atc2019
+  deadline: "2019-01-10 15:00:00"
+  timezone: PST
+  date: July 10–12, 2019
+  place: Renton, WA, USA
+  sub: DS
+  
 - name: INFOCOM
   year: 2019
   id: infocom2019
