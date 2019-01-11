@@ -11,15 +11,43 @@
   date: July 10–12, 2019
   place: Renton, WA, USA
   sub: DS
-  
+
+- name: HotOS
+  year: 2019
+  id: hotos2019
+  deadline: "2019-01-17 23:59:00"
+  timezone: GMT
+  date: May 12-15, 2019
+  place: Bertinoro, Italy
+  sub: DS
+
+- name: HotCloud
+  year: 2019
+  id: hotcloud2019
+  deadline: "2019-03-06 20:59:00"
+  timezone: PDT
+  date: July 8, 2019
+  place: Renton, WA, USA
+  sub: NS
+
+- name: NSDI
+  year: 2020
+  id: nsdi2020spring
+  deadline: "2019-03-12 20:59:00"
+  timezone: EDT
+  date: February 25–27, 2020
+  place: Santa Clara, CA, USA
+  sub: NS
+
 - name: SOSP
   year: 2019
   id: sosp2019
   deadline: "2019-04-17 23:59:00"
   timezone: UTC
-  date: TBA
+  date: October 27-39, 2019
   place: Huntsville, Ontario, Canada
   sub: DS
+
 
 
 # Conferences closed for submission are sorted
