@@ -2,6 +2,14 @@
 
 # Conferences active for submission are sorted
 # in ascending order of submission deadlines.
+- name: SoCC
+  year: 2019
+  id: socc2019
+  deadline: "2019-06-03 23:59:00"
+  timezone: EDT
+  date: November 20-23, 2019
+  place: Chaminade, Santa Cruz, California
+  sub: DS
 
 - name: HotOS
   year: 2019
