@@ -2,23 +2,6 @@
 
 # Conferences active for submission are sorted
 # in ascending order of submission deadlines.
-- name: SoCC
-  year: 2019
-  id: socc2019
-  deadline: "2019-06-03 23:59:00"
-  timezone: EDT
-  date: November 20-23, 2019
-  place: Chaminade, Santa Cruz, California
-  sub: DS
-
-- name: HotOS
-  year: 2019
-  id: hotos2019
-  deadline: "2019-01-17 23:59:00"
-  timezone: GMT
-  date: May 12-15, 2019
-  place: Bertinoro, Italy
-  sub: DS
 
 - name: HotCloud
   year: 2019
@@ -47,7 +30,14 @@
   place: Huntsville, Ontario, Canada
   sub: DS
 
-
+- name: SoCC
+  year: 2019
+  id: socc2019
+  deadline: "2019-06-03 23:59:00"
+  timezone: EDT
+  date: November 20-23, 2019
+  place: Chaminade, Santa Cruz, California
+  sub: DS
 
 # Conferences closed for submission are sorted
 # in descending order of conference date. 
@@ -60,6 +50,15 @@
   date: July 10–12, 2019
   place: Renton, WA, USA
   sub: DS
+
+- name: HotOS
+  year: 2019
+  id: hotos2019
+  deadline: "2019-01-17 23:59:00"
+  timezone: GMT
+  date: May 12-15, 2019
+  place: Bertinoro, Italy
+  sub: DS
   
 - name: INFOCOM
   year: 2019
@@ -69,6 +68,15 @@
   date: April 29-May 2, 2019
   place: Paris, France
   sub: NS
+  
+- name: ASPLOS
+  year: 2019
+  id: asplos2019
+  deadline: "2018-07-31 00:00:00"
+  timezone: GMT
+  date:  April 13-17, 2019
+  place: Providence, RI, USA
+  sub: DS, ARCH
   
 - name: EuroSys
   year: 2019
