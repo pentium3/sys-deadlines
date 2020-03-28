@@ -237,3 +237,23 @@
   place: 
   sub: DB
 
+- name: HPDC
+  year: 2020
+  id: hpdc2020
+  link: http://www.hpdc.org/2020/
+  deadline: "2020-01-16 23:59:00"
+  timezone: EDT
+  date: June 23-26, 2020
+  place: 
+  sub: DS
+
+- name: SIGMETRICS
+  year: 2020
+  id: sigmetrics2020
+  link: https://www.sigmetrics.org/sigmetrics2020/
+  deadline: "2020-01-27 23:59:00"
+  timezone: EDT
+  date: June 8-12, 2020
+  place: 
+  sub: NS
+
