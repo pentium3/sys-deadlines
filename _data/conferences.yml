@@ -6,12 +6,12 @@
 
 - name: SoCC
   year: 2019
-  id: socc2019
-  link: https://acmsocc.github.io/2019/
-  deadline: "2019-06-03 23:59:00"
+  id: socc2020
+  link: https://acmsocc.github.io/2020/papers.html
+  deadline: "2020-05-18 20:00:00"
   timezone: EDT
-  date: November 20-23, 2019
-  place: Chaminade, Santa Cruz, California
+  date: October 19-21, 2020
+  place: 
   sub: DS
 
 - name: ASPLOS
@@ -22,43 +22,35 @@
   timezone: GMT
   date: TBA
   place: Lausanne, Switzerland
-  sub: DS
+  sub: ARCH
 
 - name: NSDI
-  year: 2020
-  id: nsdi2020autumn
-  link: https://www.usenix.org/conference/nsdi20/call-for-papers
-  deadline: "2019-09-12 20:59:00"
-  timezone: PDT
-  date: February 25–27, 2020
-  place: Santa Clara, CA, USA
-  sub: NS
+  year: 2021
+  id: nsdi2021autumn
+  link: https://www.usenix.org/conference/nsdi21
+  deadline: "2020-09-10 23:59:00"
+  timezone: EDT
+  date: APRIL 12–14, 2021
+  place: 
+  sub: NS, DS
   
 - name: EuroSys
-  year: 2020
+  year: 2021
   id: eurosys2020
-  link: https://www.eurosys2020.org/
+  link: https://2021.eurosys.org/index.html
   deadline: "2019-11-04 00:00:00"
   timezone: GMT
-  date: April 27-30, 2020
-  place: Heraklion, Crete, Greece
+  date: 26th—29th April, 2021
+  place: 
   sub: DS
   
 # Conferences closed for submission are sorted
 # in descending order of conference date. 
 
-- name: NSDI
-  year: 2020
-  id: nsdi2020spring
-  deadline: "2019-03-12 20:59:00"
-  timezone: EDT
-  date: February 25–27, 2020
-  place: Santa Clara, CA, USA
-  sub: NS
-  
 - name: SOSP
   year: 2019
   id: sosp2019
+  link: https://sosp19.rcs.uwaterloo.ca/
   deadline: "2019-04-17 23:59:00"
   timezone: UTC
   date: October 27-39, 2019
@@ -66,224 +58,151 @@
   sub: DS
   
 - name: ATC
-  year: 2019
-  id: atc2019
-  deadline: "2019-01-10 15:00:00"
-  timezone: PST
-  date: July 10–12, 2019
-  place: Renton, WA, USA
+  year: 2020
+  id: atc2020
+  link: https://www.usenix.org/conference/atc20
+  deadline: "2020-01-12 11:59:00"
+  timezone: EST
+  date: July 15, 2020
+  place: 
   sub: DS
 
 - name: HotCloud
-  year: 2019
-  id: hotcloud2019
-  deadline: "2019-03-06 20:59:00"
+  year: 2020
+  id: hotcloud2020
+  link: https://www.usenix.org/conference/hotcloud20/call-for-papers
+  deadline: "2020-03-24 20:59:00"
   timezone: PDT
   date: July 8, 2019
-  place: Renton, WA, USA
-  sub: NS
+  place:
+  sub: DS
   
+- name: HotEdge
+  year: 2020
+  id: hotedge2020
+  link: https://www.usenix.org/conference/hotedge20/call-for-papers
+  deadline: "2020-02-27 20:59:00"
+  timezone: PST
+  date: July 14, 2020
+  place:
+  sub: DS
+
 - name: HotOS
   year: 2019
   id: hotos2019
+  link: https://www.sigops.org/2018/hotos2019/
   deadline: "2019-01-17 23:59:00"
   timezone: GMT
   date: May 12-15, 2019
-  place: Bertinoro, Italy
+  place: 
+  sub: DS
+  
+- name: OpML
+  year: 2020
+  id: opml2020
+  link: https://www.usenix.org/conference/opml20
+  deadline: "2020-02-25 17:00:00"
+  timezone: GMT
+  date: july 30, 2020
+  place: 
   sub: DS
   
 - name: INFOCOM
-  year: 2019
-  id: infocom2019
-  deadline: "2018-07-24 23:59:00"
+  year: 2021
+  id: infocom2021
+  link: https://www.comsoc.org/conferences-events/ieee-international-conference-computer-communications-2021
+  deadline: "2020-08-15 00:00:00"
   timezone: EDT
-  date: April 29-May 2, 2019
-  place: Paris, France
+  date: May 10, 2019
+  place: 
   sub: NS
-  
-- name: ASPLOS
-  year: 2019
-  id: asplos2019
-  deadline: "2018-07-31 00:00:00"
-  timezone: GMT
-  date:  April 13-17, 2019
-  place: Providence, RI, USA
-  sub: DS, ARCH
-  
-- name: EuroSys
-  year: 2019
-  id: eurosys2019
-  deadline: "2018-09-24 00:00:00"
-  timezone: GMT
-  date: Mar 25-28, 2019
-  place: Dresden, Germany
-  sub: DS
-  
-- name: NSDI
-  year: 2019
-  id: nsdi2019
-  link: https://www.usenix.org/conference/nsdi19
-  deadline: "2018-05-31 18:00:00"
-  timezone: PDT
-  date: Feburary 26–28, 2019
-  place: Boston, MA, USA
-  sub: NS
-  
-- name: SoCC
-  year: 2018
-  id: socc2018
-  deadline: "2018-05-08 20:00:00"
-  timezone: EDT
-  date: October 11-13, 2018
-  place: Carlsbad, CA, USA
-  sub: DS
   
 - name: OSDI
-  year: 2018
-  id: osdi2018
-  link: https://www.usenix.org/conference/osdi18
-  deadline: "2018-04-26 15:00:00"
+  year: 2020
+  id: osdi2020
+  link: https://www.usenix.org/conference/osdi20
+  deadline: "2020-05-05 15:00:00"
   timezone: PDT
-  date: October 8-10, 2018
-  place: Carlsbad, CA, USA
+  date: NOVEMBER 4–6, 2020
+  place: 
   sub: DS
 
-- name: VLDB
-  year: 2018
-  id: vldb2018
-  link: http://vldb2018.lncc.br/
-  deadline: "2018-03-01 00:00:00"
-  timezone: PDT
-  date: August 27-31, 2018
-  place: Rio de Janeiro, Brazil
-  sub: DB
-  
 - name: SIGCOMM
-  year: 2018
-  id: sigcomm2018
-  link: http://conferences.sigcomm.org/sigcomm/2018/
-  deadline: "2018-01-24 00:00:00"
+  year: 2020
+  id: sigcomm2020
+  link: https://conferences.sigcomm.org/sigcomm/2020/cfp.html
+  deadline: "2020-02-07 00:00:00"
   timezone: GMT
-  date: August 20-24, 2018
-  place: Budapest, Hungary
-  sub: NS
-  
-- name: ATC
-  year: 2018
-  id: atc2018
-  link: https://www.usenix.org/conference/atc18
-  deadline: "2018-02-06 00:00:00"
-  timezone: GMT
-  date: July 11–13, 2018
-  place: Boston, MA, USA
-  sub: DS
-
-- name: HotCloud
-  year: 2018
-  id: hotcloud2018
-  link: https://www.usenix.org/conference/hotcloud18
-  deadline: "2018-03-16 11:59:00"
-  timezone: PDT
-  date: July 9, 2018
-  place: Boston, MA, USA
+  date: August 10, 2020
+  place: 
   sub: NS
   
 - name: ICDCS
-  year: 2018
-  id: icdcs2018
-  link: http://icdcs2018.ocg.at/
-  deadline: "2017-12-05 00:00:00"
-  timezone: GMT
-  date: July 2–6, 2018
-  place: Vienna, Austria
+  year: 2020
+  id: icdcs2020
+  link: http://icdcs2020.sg/
+  deadline: "2020-01-13 00:00:00"
+  timezone: 
+  date: July 7, 2020
+  place: 
   sub: DS
   
-- name: SIGMOD
-  year: 2018
-  id: sigmod2018
-  link: http://sigmod2018.org/
-  deadline: "2017-10-26 17:00:00"
-  timezone: PDT
-  date: June 10-15, 2018
-  place: Houston, TX, USA
+- name: VLDB
+  year: 2021
+  id: vldb2021
+  link: https://vldb.org/2021/
+  deadline: "2021-03-01 00:00:00"
+  timezone: PST
+  date: August 16-20, 2021
+  place: 
   sub: DB
   
-- name: EuroSys
-  year: 2018
-  id: eurosys2018
-  link: http://eurosys2018.org/
-  deadline: "2017-10-20 00:00:00"
-  timezone: GMT
-  date: April 23-26, 2018
-  place: Porto, Portugal
-  sub: DS
-
-- name: INFOCOM
-  year: 2018
-  id: infocom2018
-  link: http://infocom2018.ieee-infocom.org/
-  deadline: "2017-07-24 23:59:00"
-  timezone: EDT
-  date: April 15-19, 2018
-  place: Honolulu, HI, USA
-  sub: DS
-
-- name: NSDI
-  year: 2018
-  id: nsdi2018
-  link: https://www.usenix.org/conference/nsdi18
-  deadline: "2017-09-18 18:00:00"
+- name: SIGMOD
+  year: 2020
+  id: sigmod2020
+  link: https://sigmod2020.org/
+  deadline: "2019-07-09 00:00:00"
   timezone: PDT
-  date: April 9–11, 2018
-  place: Renton, WA, USA
-  sub: NS
+  date: June 14-19, 2020
+  place: 
+  sub: DB
 
-- name: CoNEXT
-  year: 2017
-  id: conext2017
-  link: http://conferences2.sigcomm.org/co-next/2017/#!/home
-  deadline: "2017-06-19 23:59"
+- name: SYSTOR
+  year: 2020
+  id: systor2020
+  link: https://www.systor.org/2020/
+  deadline: "2020-03-03 17:00:00"
   timezone: PDT
-  date: Dec 12-15, 2017
-  place: Seoul, South Korea
-  sub: NS
-  
-- name: HotNets
-  year: 2017
-  id: hotnets2017
-  link: http://conferences.sigcomm.org/hotnets/2017/
-  deadline: "2017-08-04 19:59:00"
-  timezone: EDT
-  date: November 30-December 1, 2017
-  place: Palo Alto, CA, USA
-  sub: NS
+  date: Oct 13-15, 2020
+  place: 
+  sub: DB
 
-- name: SOSP
-  year: 2017
-  id: sosp2017
-  link: https://www.sigops.org/sosp/sosp17/index.html
-  deadline: "2017-04-14 23:59:00"
-  timezone: UTC
-  date: October 28-31, 2017
-  place: Shanghai, China
-  sub: DS
+- name: HotStorage
+  year: 2020
+  id: hotstorage20
+  link: https://www.usenix.org/conference/hotstorage20
+  deadline: "2020-03-26 20:59:00"
+  timezone: PDT
+  date: July 13, 2020
+  place: 
+  sub: DB
 
-- name: SoCC
-  year: 2017
-  id: socc2017
-  link: https://acmsocc.github.io/2017/
-  deadline: "2017-07-13 17:00:00"
-  timezone: PST
-  date: September 25-27, 2017
-  place: Santa Clara, CA, USA
-  sub: DS
+- name: FAST
+  year: 2020
+  id: fast20
+  link: https://www.usenix.org/conference/hotstorage20
+  deadline: "2019-09-26 23:59:00"
+  timezone: PDT
+  date: Feb 24, 2020
+  place: 
+  sub: DB
 
-- name: HotOS
-  year: 2017
-  id: hotos2017
-  link: https://www.sigops.org/hotos/hotos17/
-  deadline: "2017-01-25 23:59:00"
-  timezone: GMT
-  date: May 7-10, 2017
-  place: British Columbia, Canada
+- name: MLSys
+  year: 2020
+  id: mlsys2020
+  link: https://mlsys.org/
+  deadline: "2019-09-09 16:59:00"
+  timezone: PDT
+  date: mar 2, 2020
+  place: 
   sub: DS
