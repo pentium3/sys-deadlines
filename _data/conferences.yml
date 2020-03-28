@@ -206,3 +206,34 @@
   date: mar 2, 2020
   place: 
   sub: DS
+
+- name: APSys
+  year: 2020
+  id: apsys2020
+  link: https://ap-sys.org/
+  deadline: "2020-05-25 23:59:00"
+  timezone: EDT
+  date: Aug 24, 2020
+  place: 
+  sub: DS
+
+- name: PODS
+  year: 2020
+  id: pods2020
+  link: https://www.podc.org/
+  deadline: "2020-02-17 23:59:00"
+  timezone: EDT
+  date: Aug 3, 2020
+  place: 
+  sub: DS
+
+- name: ICDE
+  year: 2020
+  id: icde2020
+  link: https://www.utdallas.edu/icde/
+  deadline: "2019-06-15 23:59:00"
+  timezone: EDT
+  date: Apr 20, 2020
+  place: 
+  sub: DB
+
