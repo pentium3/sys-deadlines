@@ -14,11 +14,11 @@
   place: 
   sub: DS
 
-- name: ASPLOS
-  year: 2020
-  id: asplos2020
+- name: ASPLOS [estimated date]
+  year: 2021
+  id: asplos2021
   link: https://asplos-conference.org/calls/
-  deadline: "2019-08-09 00:00:00"
+  deadline: "2020-08-09 00:00:00"
   timezone: GMT
   date: TBA
   place: Lausanne, Switzerland
@@ -34,7 +34,7 @@
   place: 
   sub: NS, DS
   
-- name: EuroSys
+- name: EuroSys [estimated date]
   year: 2021
   id: eurosys2021
   link: https://2021.eurosys.org/index.html
@@ -47,21 +47,21 @@
 # Conferences closed for submission are sorted
 # in descending order of conference date. 
 
-- name: SOSP
-  year: 2019
-  id: sosp2019
+- name: SOSP [estimated date]
+  year: 2021
+  id: sosp2021
   link: https://sosp19.rcs.uwaterloo.ca/
-  deadline: "2019-04-17 23:59:00"
+  deadline: "2021-04-01 23:59:00"
   timezone: UTC
   date: October 27-39, 2019
   place: Huntsville, Ontario, Canada
   sub: DS
   
-- name: ATC
-  year: 2020
-  id: atc2020
+- name: ATC [estimated date]
+  year: 2021
+  id: atc2021
   link: https://www.usenix.org/conference/atc20
-  deadline: "2020-01-12 11:59:00"
+  deadline: "2021-01-01 11:59:00"
   timezone: EST
   date: July 15, 2020
   place: 
@@ -157,7 +157,7 @@
   place: 
   sub: DB
   
-- name: SIGMOD
+- name: SIGMOD [estimated date]
   year: 2021
   id: sigmod2021
   link: https://sigmod2020.org/
@@ -197,7 +197,7 @@
   place: 
   sub: DB
 
-- name: MLSys
+- name: MLSys [estimated date]
   year: 2021
   id: mlsys2021
   link: https://mlsys.org/
@@ -237,11 +237,11 @@
   place: 
   sub: DB
 
-- name: HPDC
-  year: 2020
-  id: hpdc2020
+- name: HPDC [estimated date]
+  year: 2021
+  id: hpdc2021
   link: http://www.hpdc.org/2020/
-  deadline: "2020-01-16 23:59:00"
+  deadline: "2021-01-16 23:59:00"
   timezone: EDT
   date: June 23-26, 2020
   place: 
