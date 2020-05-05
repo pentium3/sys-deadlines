@@ -35,10 +35,10 @@
   sub: NS, DS
   
 - name: EuroSys
-  year: 2020
-  id: eurosys2020
+  year: 2021
+  id: eurosys2021
   link: https://2021.eurosys.org/index.html
-  deadline: "2019-11-04 00:00:00"
+  deadline: "2020-11-01 00:00:00"
   timezone: GMT
   date: 26th—29th April, 2021
   place: 
@@ -158,12 +158,12 @@
   sub: DB
   
 - name: SIGMOD
-  year: 2020
-  id: sigmod2020
+  year: 2021
+  id: sigmod2021
   link: https://sigmod2020.org/
-  deadline: "2019-07-09 00:00:00"
+  deadline: "2020-10-01 00:00:00"
   timezone: PDT
-  date: June 14-19, 2020
+  date: 2021
   place: 
   sub: DB
 
@@ -198,12 +198,12 @@
   sub: DB
 
 - name: MLSys
-  year: 2020
-  id: mlsys2020
+  year: 2021
+  id: mlsys2021
   link: https://mlsys.org/
-  deadline: "2019-09-09 16:59:00"
+  deadline: "2020-09-01 00:00:00"
   timezone: PDT
-  date: mar 2, 2020
+  date: 2021
   place: 
   sub: DS
 
@@ -228,12 +228,12 @@
   sub: DS
 
 - name: ICDE
-  year: 2020
-  id: icde2020
-  link: https://www.utdallas.edu/icde/
-  deadline: "2019-06-15 23:59:00"
+  year: 2021
+  id: icde2021
+  link: https://waset.org/data-engineering-conference-in-july-2021-in-vienna
+  deadline: "2020-05-13 23:59:00"
   timezone: EDT
-  date: Apr 20, 2020
+  date:   July 29-30, 2021
   place: 
   sub: DB
 
