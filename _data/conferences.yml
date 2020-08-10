@@ -207,14 +207,14 @@
   place: 
   sub: DB
 
-- name: FAST
-  year: 2020
-  id: fast20
-  link: https://www.usenix.org/conference/hotstorage20
-  deadline: "2019-09-26 23:59:00"
+- name: FAST 2021
+  year: 2021
+  id: fast21
+  link: https://www.usenix.org/conference/fast21
+  deadline: "2019-09-24 23:59:00"
   timezone: PDT
-  date: Feb 24, 2020
-  place: 
+  date: Feb 22, 2020
+  place: Santa Clara, CA, USA
   sub: DB
 
 - name: MLSys [estimated date]
@@ -257,13 +257,13 @@
   place: 
   sub: DB
 
-- name: HPDC [estimated date]
+- name: HPDC 2021 [estimated date]
   year: 2021
   id: hpdc2021
   link: http://www.hpdc.org/2020/
   deadline: "2021-01-16 23:59:00"
   timezone: EDT
-  date: June 23-26, 2020
+  date: June 23-26, 2021
   place: 
   sub: DS
 
@@ -274,6 +274,16 @@
   deadline: "2020-01-27 23:59:00"
   timezone: EDT
   date: June 8-12, 2020
+  place: 
+  sub: NS
+
+- name: IPDPS 2021 [estimated]
+  year: 2021
+  id: ipdps2021
+  link: https://www.ipdps.org/
+  deadline: "2020-10-1 23:59:00"
+  timezone: EDT
+  date: May 17-21, 2021
   place: 
   sub: NS
 
