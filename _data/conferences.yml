@@ -47,13 +47,23 @@
 - name: IC2E [estimated date]
   year: 2021
   id: ic2e2021
-  link: hhttps://conferences.computer.org/IC2E/2020/cfp.htm
+  link: https://conferences.computer.org/IC2E/2020/cfp.htm
   deadline: "2020-11-15 00:00:00"
   timezone: GMT
   date: 21th—24th April, 2021
   place: 
   sub: DS
   
+- name: ICDCN
+  year: 2021
+  id: icdcn2021
+  link: http://www.icdcn2021.net/
+  deadline: "2020-07-31 00:00:00"
+  timezone: 
+  date: 5th-8th Jan, 2021
+  place: Nara, Japan
+  sub: DS
+
 # Conferences closed for submission are sorted
 # in descending order of conference date. 
 
@@ -120,11 +130,11 @@
 - name: INFOCOM
   year: 2021
   id: infocom2021
-  link: https://www.comsoc.org/conferences-events/ieee-international-conference-computer-communications-2021
+  link: https://infocom2021.ieee-infocom.org/
   deadline: "2020-08-15 00:00:00"
   timezone: EDT
   date: May 10, 2019
-  place: 
+  place: Vancouver, Canada
   sub: NS
   
 - name: OSDI
@@ -147,13 +157,13 @@
   place: 
   sub: NS
   
-- name: ICDCS
-  year: 2020
-  id: icdcs2020
+- name: ICDCS [estimated date]
+  year: 2021
+  id: icdcs2021
   link: http://icdcs2020.sg/
-  deadline: "2020-01-13 00:00:00"
+  deadline: "2021-01-13 00:00:00"
   timezone: 
-  date: July 7, 2020
+  date: July 7, 2021
   place: 
   sub: DS
   
