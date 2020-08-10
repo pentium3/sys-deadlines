@@ -44,7 +44,7 @@
   place: 
   sub: DS
 
-  - name: IC2E [estimated date]
+- name: IC2E [estimated date]
   year: 2021
   id: ic2e2021
   link: hhttps://conferences.computer.org/IC2E/2020/cfp.htm
