@@ -197,13 +197,13 @@
   place: 
   sub: DB
 
-- name: HotStorage
-  year: 2020
-  id: hotstorage20
+- name: HotStorage 2021 [stimated date]
+  year: 2021
+  id: hotstorage21
   link: https://www.usenix.org/conference/hotstorage20
-  deadline: "2020-03-26 20:59:00"
+  deadline: "2021-03-26 20:59:00"
   timezone: PDT
-  date: July 13, 2020
+  date: July 13, 2021
   place: 
   sub: DB
 
